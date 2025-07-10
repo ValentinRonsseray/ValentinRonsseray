@@ -19,7 +19,6 @@
 - **Langages :** Python (Pandas, Matplotlib, Seaborn, Scikit-learn), C/C++, R, SQL
 - **Data Science & IA :** modélisation, classification supervisée, analyse de données
 - **Outils :** Git, Jupyter, PostgreSQL, LaTeX
-- **Développement logiciel :** algorithmique, optimisation, programmation orientée objet
 
 ---
 
